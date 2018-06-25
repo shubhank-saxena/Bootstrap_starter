@@ -1,0 +1,21 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Bootstrap Starter Pack",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Shubhank Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
